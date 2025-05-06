@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "image.png"
+  name             : "Jiakai Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "a third year undergraduate student from South China Normal University"
+  location         : "Foshang, China"
+  employer         : "South China Normal University"
+  uri              : https://github.com/JackHuang0701/JackHuang0701.github.io# URL
+  email            : "huangjiakai@m.scnu.edu.cn" 
 
   # Academic websites
   academia         : # URL
