@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Artificial Intellegent](http://ai.scnu.edu.cn/), [UESTC](https://www.scnu.edu.cn/). My research interest includes computer vision and Robotics.
+I'm a third year undergraduate student from [School of Artificial Intellegent](http://ai.scnu.edu.cn/), [South China Normal University](https://www.scnu.edu.cn/). My research interest includes computer vision and Robotics.
